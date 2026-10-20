@@ -44,7 +44,7 @@ app/src/main/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/android-broadcast-receiver-demo.git
+   git clone https://github.com/DevelopeprKSD/android-broadcast-receiver-demo.git
    ```
 2. Open the folder in Android Studio (**File → Open**) and wait for Gradle sync to finish.
 3. Select an emulator or connected device and click **Run**.
